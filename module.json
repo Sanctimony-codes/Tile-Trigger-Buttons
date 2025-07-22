@@ -7,5 +7,5 @@
   "type": "module",
   "minimumCoreVersion": "13",
   "compatibleCoreVersions": ["13"],
-  "scripts": ["scripts/main.js"],
+  "scripts": ["scripts/main.js"]
 }
