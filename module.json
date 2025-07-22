@@ -8,6 +8,4 @@
   "minimumCoreVersion": "13",
   "compatibleCoreVersions": ["13"],
   "scripts": ["scripts/main.js"],
-  "esmodules": [],
-  "styles": []
 }
