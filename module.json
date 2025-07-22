@@ -1,0 +1,13 @@
+{
+  "name": "tile-trigger-buttons",
+  "title": "Tile Trigger Buttons",
+  "description": "Click a tile to open a linked Journal Entry or play an audio file.",
+  "version": "1.0.1",
+  "author": "Sanctimony",
+  "type": "module",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersions": ["13"],
+  "scripts": ["scripts/main.js"],
+  "esmodules": [],
+  "styles": []
+}
