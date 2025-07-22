@@ -9,5 +9,5 @@
   "compatibleCoreVersions": ["13"],
   "scripts": ["scripts/main.js"],
   "download": "https://github.com/Sanctimony-codes/Tile-Trigger-Buttons/archive/refs/heads/main.zip",
-   "manifest": "https://raw.githubusercontent.com/Sanctimony-codes/Tile-Trigger-Buttons/main/module.json"
+ "manifest": "https://raw.githubusercontent.com/Sanctimony-codes/Tile-Trigger-Buttons/main/module.json"
 }
